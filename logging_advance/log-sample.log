@@ -1,0 +1,15 @@
+DEBUG:__main__:Add: 660+770=1430
+DEBUG:__main__:Add: 660+770=-110
+DEBUG:__main__:Add: 660+770=508200
+DEBUG:__main__:Add: 660+770=0.8571428571428571
+ERROR:__main__:Tried to divide by zero
+ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:\Users\DeepyanshShah\OneDrive - Go Digital Technology Consulting LLP\Documents\Python Scripts\logging_advance\log-sample.py", line 34, in div
+    result = x / y
+ZeroDivisionError: division by zero
+ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:\Users\DeepyanshShah\OneDrive - Go Digital Technology Consulting LLP\Documents\Python Scripts\logging_advance\log-sample.py", line 39, in div
+    result = x / y
+ZeroDivisionError: division by zero
